@@ -1,0 +1,9 @@
+C:\Users\Hardey\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Release\WindowsApplication4.exe
+C:\Users\Hardey\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Release\WindowsApplication4.pdb
+C:\Users\Hardey\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Release\WindowsApplication4.xml
+C:\Users\Hardey\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Hardey\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Hardey\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Release\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\Hardey\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Release\WindowsApplication4.exe
+C:\Users\Hardey\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Release\WindowsApplication4.xml
+C:\Users\Hardey\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Release\WindowsApplication4.pdb
